@@ -1,0 +1,8 @@
+- name: CO2 Emissions
+  link: /emissions/
+
+- name: Food Production
+  link: /production/
+
+- name: About
+  link: /about/
