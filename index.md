@@ -8,7 +8,7 @@ layout: story
 
 Our journey begin with a first map
 
-<iframe src="/images/maps/trade_of_vegetal_product_for_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/maps/trade_of_vegetal_product_for_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 And a first graph
 
