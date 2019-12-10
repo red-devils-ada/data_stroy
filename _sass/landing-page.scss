@@ -16,7 +16,7 @@
 		left: 0;
 		right: 0;
 		height: 300px;
-}
+	}
 
 	p {
 		color: #fff;
@@ -44,6 +44,11 @@
 		position: absolute;
 		right: 0;
 	}
+}
+
+.small {
+	min-height: 0px;
+	height: 350px;
 }
 
 .image {

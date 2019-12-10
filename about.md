@@ -1,7 +1,7 @@
 ---
 title: About
-image: /images/cow.jpg
-layout: story
+image: /images/about.jpg
+layout: post
 ---
 
 
