@@ -10,11 +10,11 @@ layout: story
 Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. While the earth gets more crowded, we have to ask the question :
 How will we feed all those people sustainably? 
 
-# Intorduction : Are agriculture's emissions significant ?
+# Introduction : Are agriculture's emissions significant ?
   
 (show the emissions per sector -> agriculture = 10% + the transport due to trade of agri products)
   
-# Who are the main countrys responsible for it ?
+# Who are the main countries responsible for it ?
 
 (map of the emissions per country)
 
@@ -36,8 +36,14 @@ How will we feed all those people sustainably?
 
 # This is nice ! But we live in a modern world with trades all around the world...
 
- (talk about the ECF (Extended Carbon Footprint = domestic + import + international transport))
+(talk about the ECF (Extended Carbon Footprint = domestic + import + international transport))
 
+ In reality, we all know that our food doesn't only come from our country. In fact, most of the food we eat comes from another country and is a traded good. This is why the concept of Extended Carbon Footprint is of interest. It takes into account the emissions due to :
+  * the domestic production that is actually consumed in the country,
+  * the imported food goods production,
+  * the international transport necessary to bring this food from where it was produced to the shops where it can be purchased.
+ So we need to take into account the trades and the means of transportation of food. To get more clear, the study case will first be done on only one country : Belgium.
+ 
 # Zoom on Belgium
 ## How much traded food for Belgium?
 
@@ -65,7 +71,7 @@ How will we feed all those people sustainably?
 
 (comparison Switzerland - Belgium)
 
-# And if we extand that to whole EU countries?
+# And if we extend that to whole EU countries?
 
 
 
