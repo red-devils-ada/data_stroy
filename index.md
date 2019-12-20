@@ -39,11 +39,11 @@ Animal products generate about 3 million of gigagrams of CO2 equivalent. This is
 
 <iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-<div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. The widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd. Accordingly, GHG emissions from the agriculture sector dropped during this period. From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However, in 2010, livestock production declined again due to extreme winter events <a href="https://www.climatelinks.org/sites/default/files/asset/document/Mongolia%20Fact%20Sheet%20-%20rev%2010%2008%2016_Final.pdf">[2]</a>. </div>
+<div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. The widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd. Accordingly, GHG emissions from the agriculture sector dropped during this period. From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However, in 2010, livestock production declined again due to extreme winter events <a href="https://www.climatelinks.org/sites/default/files/asset/document/Mongolia%20Fact%20Sheet%20-%20rev%2010%2008%2016_Final.pdf">[1]</a>. </div>
 
 In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has very low emission per person (mostly due to their enormous population). The recent heaviest polluter is surprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
 
-Next to Mongolia, the biggest consumers are Australia, Uruguay and New Zealand (all in the top 10 meat consuming countries of the world.[https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html]
+Next to Mongolia, the biggest consumers are Australia, Uruguay and New Zealand (all in the top 10 meat consuming countries of the world<a href="https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html"> [2] </a>.
 
 
 ### Who are the food producers?
@@ -54,10 +54,11 @@ As expected, the highest producers are China, India, Brazil and the USA (four of
 
 ## Calculating the real emission
 
+Until now, we've only looked at the trivial emission, of products produced in a country. However, to get a realistic representation of emission per capita, one needs to take into account imported and exported goods. A country should be responsible for the emissions of the products they import while the responsability for the ones they export is not theirs. In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
 
 ### Correcting for import and export
 
-Until now, we've only looked at the trivial emission, of products produced in a country. However, to get a realistic representation of emission per capita, one needs to take into account imported and exported goods. A country should be responsible for the emissions of the products they import while the responsability for the ones they export is not theirs. In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
+In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
 
 <iframe src="{{ site.baseurl }}/images/graphs/corrected_emissions_bel_swiss.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
@@ -95,22 +96,22 @@ In this plot, the contribution of trade and transport to emission is plotted for
 This leads us to the following conclusion results for Belgium: 
 <iframe src="{{site.baseurl}}/images/graphs/emission_belgium_corrected.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-Some conclusions: 
-
+Overall, the corrections have a minimal influence. The biggest difference is in transportation of vegetal products, as these get imported and exported in bigger quantities than meat.
 
 Now, we will extend this approach to all EU countries. 
 
 ## A comparative study with the other EU countries
 
-
-(trade comparison)
-(transport comparison)
+<iframe src="{{site.baseurl}}/images/graphs/bar_eu_countries" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 <iframe src="{{site.baseurl}}/images/maps/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 <iframe src="{{site.baseurl}}/images/maps/corrected_emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 Incorporating traded goods and transport only has a limited amount of influence emissions. While the transport of vegetables is not neglectable, the huge amount of GHG emissions by animals overshadows this. 
+
+## Conclusion
+
 
 
 
