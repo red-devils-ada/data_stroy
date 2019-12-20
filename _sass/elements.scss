@@ -62,7 +62,9 @@ p, address, ul {
 }
 
 .boxed {
-  	border: 3px solid grey;
+  	border: 1px solid grey;
+	background-color: CornflowerBlue;
+	margin: 3px;
   	float:right;
 	font-size: 10px;
 	width: 150px;
