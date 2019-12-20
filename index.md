@@ -112,6 +112,8 @@ Incorporating traded goods and transport only has a limited amount of influence 
 
 ## Conclusion
 
+Agriculture makes up a big part of today's emissions, and therefore is an important factor in the battle against global warming. The impact of transport and trading of goods is neglectible compared to the production emission of the goods. From our investigation, it is clear that meat has a much bigger influence than vegetal products, including the fodder would even further increase this. An effective way of battling global warming would be to transform our agriculture to a more varieted, plant-based approach! 
+
 
 
 
