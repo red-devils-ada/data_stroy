@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="css/index.css" />
+
 ---
 title: The REAL carbon footprint of your food!
 description: A data story through the food related emissions 
