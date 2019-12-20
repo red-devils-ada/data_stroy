@@ -5,6 +5,8 @@ image: /images/cow.jpg
 layout: story
 ---
 
+<link rel="stylesheet" type="text/css" media="all" href="css/index.css" />
+
 ## Introduction
 
 In October 2018, the Intergovernmental Panel on Climate Change (IPCC) released a special report about the impacts of global warming of 1.5°C above pre-industrial levels [1]. It makes clear that this should be avoided. The warming is mainly due to greenhouse gas emissions. In this context, it is of most interest to evaluate our food system with a new view. How is it participating in those emissions? What is the real carbon footprint of what we eat?
