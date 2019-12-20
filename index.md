@@ -106,10 +106,10 @@ Now, we will extend this approach to all EU countries.
 (trade comparison)
 (transport comparison)
 
-<iframe src="{{site.baseurl}}/images/graphs/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{site.baseurl}}/images/maps/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 
-<iframe src="{{site.baseurl}}/images/graphs/corrected_emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{site.baseurl}}/images/maps/corrected_emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 
 
