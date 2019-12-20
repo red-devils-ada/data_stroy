@@ -12,32 +12,35 @@ In October 2018, the Intergovernmental Panel on Climate Change (IPCC) released a
 This data story will first have a look at the direct emissions linked to agriculture. All along, it will differentiate emissions due to vegetal or animal products. Then a deeper study on Belgium's case will be pursued. It will look at the trade of food and how it impacts the emissions of the country. The emissions linked with the transportation of this traded food are going to be added. This will allow at the end to compute the Extended Carbon Footprint of Belgium's food which includes the direct emissions, the ones of trade and the ones of transportation.  This indicator gives a better view, in a globalized world, of the real emissions our food is responsible for. Finally, the same methodology will be applied to each country in the EU.
 
 ## A global view
+
+Let us first get a general overview of what kind of problem we are dealing with.
+
 ### Are agriculture's emissions significant ?
   
   
 <iframe src="{{ site.baseurl }}/images/graphs/emissions_sector.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-The total world greenhouse gas emissions in 2017 add up to 49,4 billion tons of CO2 equivalent. Nearly half of it is due to the energy sector. It highlights why the energy transition is such a hot topic nowadays. By 2017, the agriculture sector emissions reach 5 billion tons of CO2 equivalent which is 10% of the total emissions. The production of all those agricultural products uses also a lot of energy. Hence a part of the emissions of the energy sector comes from agriculture's energy use. This part is not assessed in this data story. Another point is that most of the food products will be traded and transported to be consumed elsewhere. Thus some of the emissions linked to the transport sector come from this trade of food. Further in the data story, this point will be assessed. 
+Emissions are measured in CO2eq, this is a unit based on the global warming potential (GWP) of different greenhouse gases. The CO2eq unit measures the environmental impact of one tonne of these greenhouse gases in comparison to the impact of one tonne of CO2. The total world greenhouse gas emissions in 2017 add up to 49.4 billion tons of CO2 equivalent. Nearly half of it is due to the energy sector, explaining why the energy transition is such a hot topic nowadays. By 2017, the agriculture sector emissions reach 5 billion tons of CO2 equivalent which is 10% of the total emissions (note that we neglect the energy use caused by agriculture). Another point is that most of the food products will be traded and transported to be consumed elsewhere. Thus some of the emissions linked to the transport sector come from this trade of food. Further in the data story, this point will be assessed. 
 
-### What are those emissions due to ?
+### What causes agriculture emissions ?
 
-Agriculture-related emissions can be classified into ten categories.  Among them, enteric fermentation is predominant. When the ruminants are digesting, fermentation takes place. It emits methane which is a strong greenhouse gas. Three other categories have also an important role: synthetic fertilizers, rice cultivation and manure left on pasture.
+Agriculture-related emissions can be classified into ten categories.  Among them, enteric fermentation is predominant. When the ruminants are digesting, fermentation takes place emmiting methane (a strong greenhouse gas). Three other categories that have an important role are synthetic fertilizers, rice cultivation and manure left on pasture.
 
 <iframe src="{{ site.baseurl }}/images/graphs/detailed_emissions_world.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-To have a simpler interpretation those categories can be aggregated into emissions linked to animal products and the ones linked with vegetal products.
+A hot topic in global warming discussions is the impact of meat production. Many people choose for a vegetarian livestyle to reduce their ecological foodprint. Throughout this data story, we will explore if this is grounded, by aggregrating the categories into emissions linked to animal products and the ones linked with vegetal products.
 
 <iframe src="{{ site.baseurl }}/images/graphs/veg_anim_emissions_world.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-The animal products generate about 3 million of gigagrams of CO2 equivalent. This is nearly twice more than the vegetal products. This result is as expected when we know the main source of emissions comes from the digestion of ruminants. Thus the ecological movements for vegetarianism does come from somewhere.
+Animal products generate about 3 million of gigagrams of CO2 equivalent. This is nearly double that of vegetal products. Knowing that the main source of emissions comes from the digestion of ruminants, this is an expected result. The ecological movements for vegetarianism does come from somewhere!
 
 ### Who are the main countries responsible for it ?
 
-<iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+* (map of the emissions per country)
 
 ### Who are the food producers ?
 
-<iframe src="{{ site.baseurl }}/images/maps/production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+* (map of countries about their production per capita)
 
 ## A deeper study on Belgium
 
@@ -69,7 +72,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 ### What about the impact of transporting all that food ?
 
 * (piechart with proportion of agricultural products brought by each transpot mode)
-* <iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+* (bar chart about emissions intesinties of different mode of transport)
 
 ### The Extended Carbon Footprint of Belgium's food
 
@@ -79,7 +82,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 ## A comparative study with the other EU countries
 
 (trade comparison)
-<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+(transport comparison)
 (maps of EU countries emissions with and without trade and transport)
 
 
