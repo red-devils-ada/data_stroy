@@ -79,7 +79,7 @@ The total emission per km\*ton is calculated by taking the distance between the 
 
 Here we can see the proportion of transportation means used per country (use this to interprete the impact of transportation emission per country).  
 
-#### Corrections for Belgium
+#### The Extended Carbon Footprint of Belgium's food
 
 First, let us have a look at what countries Belgium trades with, and the impact on the emissions.
 
@@ -100,10 +100,8 @@ Some conclusions:
 * Transportation and trade of vegetable has a huge influence, and significantly highers the emission
 * The total emission (with all the correction), is between 25% and 40% higher than the trivial emission 
 
+Now, we will extend this approach to all EU countries. 
 
-### The Extended Carbon Footprint of Belgium's food
-
-@@ -79,7 +82,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 ## A comparative study with the other EU countries
 
 (trade comparison)
