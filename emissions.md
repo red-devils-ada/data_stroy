@@ -8,16 +8,14 @@ layout: post
 
 ## Introduction
 
-On this page, we will dive deeper into the analysis of the emissions for each country. We will see how these emissions changes when we consider the emission of the whole country or per capita in each country.
+On this page, we dive deeper into the analysis of the emissions for each country. We will see how these emissions changes when we consider the emission of the whole country or per capita in each country.
 
 ## Distribution of the emissions
-First, let's look at the distribution of the emission when we consider the whole country.
+First, let us look at the distribution of the emission when we consider the whole country.
 
 <iframe src="{{ site.baseurl }}/images/graphs/emissions_hist.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-
-We can see that the distribution is heavy-tailed, it means that most of the countries do not produce a lot of emissions but some emit huge amounts of CO2. If we look at those countries, we can see that these are the most populated country which is something we could expect.
-
+We can see that the distribution is heavy-tailed, it means that most of the countries do not produce a lot of emissions, while some emit huge amounts of CO2. If we look at those countries, we can see that these are the most populated country which is something we could expect.
 
 ## Emission per capita
 
@@ -32,4 +30,4 @@ To have a better view we can remove this country and look again at the distribut
 <iframe src="{{ site.baseurl }}/images/graphs/emissions_hist_capita_corrected.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 The countries that emit the most are not necessarily the ones we expected. Indeed we do not see China or India.
-That's because this dataset focuses on emission due to agriculture. Moreover, we can see that the top 10 emitters are the same (almost in the same order) if we look at the total emissions and the emissions due to animal products. These countries are known for producing a lot of meat.
+That's because this dataset focuses on emission due to agriculture. Moreover, we can see that the top 10 emitters are the same (almost in the same order) if we look at the total emissions and the emissions due to animal products. These countries are known for producing and/or consuming a lot of meat.
