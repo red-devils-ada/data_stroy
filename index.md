@@ -52,8 +52,7 @@ Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand 
 
 As expected, the highest producers are China, India, Brazil and the USA (four of the five most populated countries in the world). Their (and most countries') production has increased over the last 16 years. 
 
-## A deeper study on Belgium
-
+## Calculating the real emission
 
 
 ### Correcting for import and export
@@ -62,14 +61,19 @@ Until now, we've only looked at the trivial emission, of products produced in a 
 
 <iframe src="{{ site.baseurl }}/images/graphs/corrected_emissions_bel_swiss.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-We clearly see that this has a huge influence on the emission. 
+We easily see that this has a huge influence on the emission. The corrected values are almost double the previous results. It is clear that one needs to take into account the emissions of import and export to get a good understanding of food emissions. 
 
 
 ### Correcting for transportation
 
-* (piechart with proportion of agricultural products brought by each transpot mode)
+More than just the CO2 of imported goods, transport also has an influence on the emission. In this section, we will calculate the emissions due to import transportation of all European Countries, and see how this influences our results.
+
+The four most common ways of transporting food are by plane (air), truck (road), train (rail) or boat (sea). Below, the respective emissions per km\*ton of imported goods is given.
+
 * <iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
-* (bar chart about emissions intesinties of different mode of transport)
+
+Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emission of road and almost 50 times that of road and rail[TODO REFERENCE!!!].
+
 
 ### The Extended Carbon Footprint of Belgium's food
 
