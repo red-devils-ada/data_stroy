@@ -12,6 +12,8 @@ How will we feed all those people sustainably?
 
 # Introduction : Are agriculture's emissions significant ?
   
+  
+<iframe src="{{ site.baseurl }}/images/graphs/emissions_sector.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 (show the emissions per sector -> agriculture = 10% + the transport due to trade of agri products)
   
 # Who are the main countries responsible for it ?
