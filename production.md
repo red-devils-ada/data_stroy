@@ -15,9 +15,9 @@ In the graph below you can see the evolution of the total amount of agricultural
 
 Of course, the production amount of agricultural products increases. With a global increase in population, also comes an increase in the need for food and thus agricultural products. However, taking a look at the production per capita, we can see that the production weight stays roughly the same. You could interpret that the average need for food stays the same. We might have have expected that it would increase as one could think that people eat more now, as opposed to 60 years ago, but this is apparently nog the case. We do notice a slight decrease in the production of meat. “We don’t want to tell people what to eat,” says Hans-Otto Pörtner, an ecologist who co-chairs the IPCC’s working group on impacts, adaptation and vulnerability. “But it would indeed be beneficial, for both climate and human health, if people in many rich countries consumed less meat, and if politics would create appropriate incentives to that effect.” [1] Apparently people are listening and getting more concious about their food choices. 
 
-<iframe src="{{ site.baseurl }}/images/graphs/production_categories.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/graphs/production_category.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-<iframe src="{{ site.baseurl }}/images/graphs/production_per_capita_categories.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/graphs/production_per_capita_category.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 
 # Plants vs. Animals
