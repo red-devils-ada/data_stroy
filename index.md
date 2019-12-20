@@ -63,6 +63,9 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 
 #### A comparison with Switzerland
 
+
+<iframe src="{{ site.baseurl }}/images/graphs/corrected_emissions_bel_swiss.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
 ### What about the impact of transporting all that food ?
 
 * (piechart with proportion of agricultural products brought by each transpot mode)
