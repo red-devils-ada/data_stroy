@@ -17,7 +17,7 @@ This data story will first have a look at the direct emissions linked to agricul
   
 <iframe src="{{ site.baseurl }}/images/graphs/emissions_sector.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-(show the emissions per sector -> agriculture = 10% + the transport due to trade of agri products)
+The total world greenhouse gas emissions in 2017 add up to 49,4 billion tons of CO2 equivalent. Nearly half of it is due to the energy sector. It highlights why the energy transition is such a hot topic nowadays. By 2017, the agriculture sector emissions reach 5 billion tons of CO2 equivalent which is 10% of the total emissions. The production of all those agricultural products uses also a lot of energy. Hence a part of the emissions of the energy sector comes from agriculture's energy use. This part is not assessed in this data story. Another point is that most of the food products will be traded and transported to be consumed elsewhere. Thus some of the emissions linked to the transport sector come from this trade of food. Further in the data story, this point will be assessed. 
 
 ### What are those emissions due to ?
 
