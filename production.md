@@ -22,9 +22,13 @@ Of course, the production amount of agricultural products increases. With a glob
 
 # Plants vs. Animals
 
-The production categories can be split in two groups: plant-based agricultural products, such as vegetables, cereals, etc. and animal-based agricultural products, such as meat, milk, etc. In the figure below you can find the weight of the plant-based agricultural produced goods per capita. 
+The production categories can be split in two groups: plant-based agricultural products, such as vegetables, cereals, etc. and animal-based agricultural products, such as meat, milk, etc. In the figures below you can find the weight of the plant-based and animal-based agricultural produced goods per capita. 
 
 <iframe src="{{ site.baseurl }}/images/maps/plant-based_agricultural_production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/maps/animal-based_agricultural_production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+
+At first sight, the animal-based production map does not look very interesting. If you take a closer look, you can however see that there is one country that stands out: New Zealand. New Zealand has an exceptionally high animal-based food production per capita. The animal-based agricultural production in New Zealand almost entirely exists of milk.
 
 
 [1] https://www.nature.com/articles/d41586-019-02409-7
