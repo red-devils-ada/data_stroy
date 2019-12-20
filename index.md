@@ -49,7 +49,8 @@ Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand 
 ### Who are the food producers ?
 
 <iframe src="{{ site.baseurl }}/images/maps/production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
-* (map of countries about their production per capita)
+
+As expected, the highest producers are China, India, Brazil and the USA (four of the five most populated countries in the world). Their (and most countries') production has increased over the last 16 years. 
 
 ## A deeper study on Belgium
 
