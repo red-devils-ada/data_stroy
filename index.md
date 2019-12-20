@@ -43,14 +43,14 @@ Animal products generate about 3 million of gigagrams of CO2 equivalent. This is
 
 In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has very low emission per person (mostly due to their enormous population). The recent heaviest polluter is surprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
 
-Next to Mongolia, the biggest consumers are Australia, Uruguay and New Zealand (all in the top 10 meat consuming countries of the world<a href="https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html"> [2] </a>.
+Next to Mongolia, the biggest consumers are Australia, Uruguay and New Zealand (all in the top 10 meat consuming countries of the world<a href="https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html"> [2] </a>. For the interested reader, we provide an extended analysis <a href="https://reddevilsada.github.io/data_story/emissions/"> here </a>.
 
 
 ### Who are the food producers?
 
 <iframe src="{{ site.baseurl }}/images/maps/production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-As expected, the highest producers are China, India, Brazil and the USA (four of the five most populated countries in the world). Their (and most countries') production has increased over the last 16 years. 
+As expected, the highest producers are China, India, Brazil and the USA (four of the five most populated countries in the world). Their (and most countries') production has increased over the last 16 years. An extended analysis can be found <a href="https://reddevilsada.github.io/data_story/production/"> here </a>.
 
 ## Calculating the real emission
 
@@ -87,22 +87,25 @@ First, let us have a look at what countries Belgium trades with, and the impact 
 <iframe src="{{ site.baseurl }}/images/maps/traded_product_with_belgium_(tons)
 .html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-Here, positive values mean import, while negative means that Belgium exports to the country. 
+Here, positive values mean import, while negative means that Belgium exports to the country. The countries from which Belgium imports and to which it exports change a lot from year to year. However, there isa general tendancy to have more imports than exports. If we look at the year 2017, the main imports were coming from Colombia, Ukraine, France, Canada and Brazil. The main destination for export producte were, in 2017, Germany, Italy, United Kingdom, Oman and China.
 
 <iframe src="{{ site.baseurl }}/images/graphs/correction_emission_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gasses, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Notice also that for vegetables, the transport has a bigger influence (due to large volumes), while for animal products the transportation costs can almost be neglected.  
+In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gases, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Indeed Belgium is a meet producer and exports a lot of it. Notice also that for vegetables, the transport has a bigger influence (due to large volumes), while for animal products the transportation costs can almost be neglected.  
 
 This leads us to the following conclusion results for Belgium: 
 <iframe src="{{site.baseurl}}/images/graphs/emission_belgium_corrected.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-Overall, the corrections have a minimal influence. The biggest difference is in transportation of vegetal products, as these get imported and exported in bigger quantities than meat.
+Overall, the corrections have a minimal influence. The biggest difference is in transportation of vegetal products, as these get imported and exported in bigger quatity (weight) than meat.
 
 Now, we will extend this approach to all EU countries. 
 
 ## A comparative study with the other EU countries
 
 <iframe src="{{site.baseurl}}/images/graphs/bar_eu_countries" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+Most CO2 producers in the european union once corrected, in tons of CO2eq per capita. Here we can see which countries should try to do a bit better fighting global warming 
+
 
 <iframe src="{{site.baseurl}}/images/maps/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
@@ -111,6 +114,8 @@ Now, we will extend this approach to all EU countries.
 Incorporating traded goods and transport only has a limited amount of influence emissions. While the transport of vegetables is not neglectable, the huge amount of GHG emissions by animals overshadows this. 
 
 ## Conclusion
+
+Agriculture makes up a big part of today's emissions, and therefore is an important factor in the battle against global warming. The impact of transport and trading of goods is neglectible compared to the production emission of the goods. From our investigation, it is clear that meat has a much bigger influence than vegetal products, including the fodder would even further increase this. An effective way of battling global warming would be to transform our agriculture to a more varieted, plant-based approach! 
 
 
 
