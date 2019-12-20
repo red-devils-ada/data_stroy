@@ -104,6 +104,9 @@ Now, we will extend this approach to all EU countries.
 
 <iframe src="{{site.baseurl}}/images/graphs/bar_eu_countries" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
+Most CO2 producers in the european union once corrected, in tons of CO2eq per capita. Here we can see which countries should try to do a bit better fighting global warming 
+
+
 <iframe src="{{site.baseurl}}/images/maps/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 <iframe src="{{site.baseurl}}/images/maps/corrected_emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
