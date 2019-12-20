@@ -57,7 +57,7 @@ As expected, the highest producers are China, India, Brazil and the USA (four of
 
 ### Correcting for import and export
 
-Until now, we've only looked at the trivial emission, of products produced in a country. However, to get a realistic representation of emission per capita, one needs to take into account import and exported and exported goods. In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
+Until now, we've only looked at the trivial emission, of products produced in a country. However, to get a realistic representation of emission per capita, one needs to take into account imported and exported goods. In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
 
 <iframe src="{{ site.baseurl }}/images/graphs/corrected_emissions_bel_swiss.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
