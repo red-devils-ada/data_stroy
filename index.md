@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="css/index.css" />
-
 ---
 title: The REAL carbon footprint of your food!
 description: A data story through the food related emissions 
@@ -7,11 +5,12 @@ image: /images/cow.jpg
 layout: story
 ---
 
+
 ## Introduction
 
-In October 2018, the Intergovernmental Panel on Climate Change (IPCC) released a special report about the impacts of global warming of 1.5°C above pre-industrial levels [1]. It makes clear that this should be avoided. The warming is mainly due to greenhouse gas emissions. In this context, it is of most interest to evaluate our food system with a new view. How is it participating in those emissions? What is the real carbon footprint of what we eat?
+In October 2018, the Intergovernmental Panel on Climate Change (IPCC) released a special report about the impacts of global warming of 1.5°C above pre-industrial levels [1], making it more than clear that scenario should be avoided at all costs. The warming is mainly due to greenhouse gas emissions. In this context, it is of most interest to evaluate our food system with a new view. How does it  contribute to the worldly emissions? And what is the real carbon footprint of what we eat?
 
-This data story will first have a look at the direct emissions linked to agriculture. All along, it will differentiate emissions due to vegetal or animal products. Then a deeper study on Belgium's case will be pursued. It will look at the trade of food and how it impacts the emissions of the country. The emissions linked with the transportation of this traded food are going to be added. This will allow at the end to compute the Extended Carbon Footprint of Belgium's food which includes the direct emissions, the ones of trade and the ones of transportation.  This indicator gives a better view, in a globalized world, of the real emissions our food is responsible for. Finally, the same methodology will be applied to each country in the EU.
+This data story will first have a look at the direct emissions linked to agriculture, differentiating between emissions due to vegetal or animal products. Then a deeper study on Belgium's case will be pursued. Next, we will look at the trade of food and how it impacts the emissions of the country. The emissions linked with the transportation of this traded food are going to be added. This will allow at the end to compute the Extended Carbon Footprint of Belgium's food which includes the direct emissions, the ones of trade and the ones of transportation.  This indicator gives a better view, in a globalized world, of the real emissions our food is responsible for. Finally, the same methodology will be applied to each country in the EU.
 
 ## A global view
 
@@ -40,10 +39,9 @@ Animal products generate about 3 million of gigagrams of CO2 equivalent. This is
 
 <iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
+<div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. Ahe widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd. Accordingly, GHG emissions from the agriculture sector dropped during this period. From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However, in 2010, livestock production declined again due to extreme winter events <a href="https://www.climatelinks.org/sites/default/files/asset/document/Mongolia%20Fact%20Sheet%20-%20rev%2010%2008%2016_Final.pdf">[2]</a>. </div>
 
-<div class="boxed"> Some fun trends to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. This increase was due in part to high cashmere prices. Although livestock producers increased livestock numbers in response to market factors, the widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd.11 Accordingly, GHG emissions from the agriculture sector dropped during this period.12 From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However,
-in 2010, livestock production declined again due to extreme winter events.[2] </div>
+In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
 
 Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand (all in the top 10 meat consuming countries of the world.[https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html]
 
@@ -51,16 +49,37 @@ Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand 
 ### Who are the food producers ?
 
 <iframe src="{{ site.baseurl }}/images/maps/production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
-* (map of countries about their production per capita)
 
-## A deeper study on Belgium
+As expected, the highest producers are China, India, Brazil and the USA (four of the five most populated countries in the world). Their (and most countries') production has increased over the last 16 years. 
 
-@@ -69,7 +72,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
-### What about the impact of transporting all that food ?
+## Calculating the real emission
 
-* (piechart with proportion of agricultural products brought by each transpot mode)
+
+### Correcting for import and export
+
+Until now, we've only looked at the trivial emission, of products produced in a country. However, to get a realistic representation of emission per capita, one needs to take into account import and exported and exported goods. In this section, we will show the corrected emission per capita of Belgium, where exported goods are not taken into account, while imported goods are. 
+
+<iframe src="{{ site.baseurl }}/images/graphs/corrected_emissions_bel_swiss.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+We easily see that this has a huge influence on the emission. The corrected values are almost double the previous results. It is clear that one needs to take into account the emissions of import and export to get a good understanding of food emissions. 
+
+
+### Correcting for transportation
+
+More than just the CO2 of imported goods, transport also has an influence on the emission. In this section, we will calculate the emissions due to import transportation of all European Countries, and see how this influences our results.
+
+The four most common ways of transporting food are by plane (air), truck (road), train (rail) or boat (sea). Below, the respective emissions per km\*ton of imported goods is given.
+
 * <iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
-* (bar chart about emissions intesinties of different mode of transport)
+
+Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emission of road and almost 50 times that of road and rail<a href="https://www.sciencedirect.com/science/article/pii/S0959652615000438">[3]</a>.
+
+The total emission per km\*ton is calculated by taking the distance between the two countries (from the capitals), and multiplying it by the amount of goods that are imported, according to the mode of transportation (obtained by the EuroStat database).  
+
+<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+Here we can see the proportion of transportation means used per country (use this to interprete the impact of transportation emission per country).  
+
 
 ### The Extended Carbon Footprint of Belgium's food
 
@@ -68,7 +87,6 @@ Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand 
 ## A comparative study with the other EU countries
 
 (trade comparison)
-<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 (transport comparison)
 (maps of EU countries emissions with and without trade and transport)
 

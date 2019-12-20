@@ -60,3 +60,13 @@ p, address, ul {
 	line-height: 1.6em;
 	font-family: 'Lato', sans-serif;
 }
+
+.boxed {
+  	border: 1px solid grey;
+	background-color: LightBlue;
+	margin: 3px;
+  	float:right;
+	font-size: 10px;
+	width: 150px;
+	padding: 5px;
+}
