@@ -91,7 +91,7 @@ Here, positive values mean import, while negative means that Belgium exports to 
 
 <iframe src="{{ site.baseurl }}/images/graphs/correction_emission_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gasses, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Notice also that for vegetables, the transport has a bigger influence (due to large volumes), while for animal products the transportation costs can almost be neglected.  
+In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gases, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Indeed Belgium is a meet producer and exports a lot of it. Notice also that for vegetables, the transport has a bigger influence (due to large volumes), while for animal products the transportation costs can almost be neglected.  
 
 This leads us to the following conclusion results for Belgium: 
 <iframe src="{{site.baseurl}}/images/graphs/emission_belgium_corrected.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
