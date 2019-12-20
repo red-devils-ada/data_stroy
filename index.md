@@ -79,6 +79,29 @@ The total emission per km\*ton is calculated by taking the distance between the 
 
 Here we can see the proportion of transportation means used per country (use this to interprete the impact of transportation emission per country).  
 
+#### Corrections for Belgium
+
+First, let us have a look at what countries Belgium trades with, and the impact on the emissions.
+
+<iframe src="{{ site.baseurl }}/images/maps/traded_product_with_belgium_(tons)
+.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+Here, positive values mean import, while negative means that Belgium exports to the country. 
+
+<iframe src="{{ site.baseurl }}/images/graphs/correction_emission_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gasses, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Notice also that for vegetabels, the transport has a bigger influence (due to large volumens), while for animal products the transportation costs can almost be neglected.  
+
+This leads us to the following conclusion results for Belgium: <iframe src="{{ site.baseurl }}/images/graphs/emission_belgium_corrected_trade
+.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+Some conclusions: 
+* Transportation and trade of meat has almost no influence
+* Transportation and trade of vegetable has a huge influence, and significantly highers the emission
+* The total emission (with all the correction), is between 25% and 40% higher than the trivial emission 
+
+
+
 <iframe src="{{ site.baseurl }}/images/graphs/correction_emission_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 In this plot, the contribution of trade and transport to emission is plotted for Belgium. While animal products normally contribute more greenhouse gasses, the import and transportation of vegetal products have a bigger influence than their animal counterparts. Notice also that for vegetabels, the transport has a bigger influence (due to large volumens), while for animal products the transportation costs can almost be neglected.  
