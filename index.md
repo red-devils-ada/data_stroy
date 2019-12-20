@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="css/index.css" />
 
 ---
 title: The REAL carbon footprint of your food!
