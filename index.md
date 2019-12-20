@@ -102,9 +102,15 @@ Now, we will extend this approach to all EU countries.
 
 ## A comparative study with the other EU countries
 
+
 (trade comparison)
 (transport comparison)
-(maps of EU countries emissions with and without trade and transport)
+
+<iframe src="{{site.baseurl}}/images/graphs/emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+
+<iframe src="{{site.baseurl}}/images/graphs/corrected_emissions_(in_tons_of_co2_eq_per_capita)_of_european_countries.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
 
 
 
