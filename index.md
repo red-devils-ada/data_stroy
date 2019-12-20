@@ -21,7 +21,15 @@ The total world greenhouse gas emissions in 2017 add up to 49,4 billion tons of 
 
 ### What are those emissions due to ?
 
-* (stacked graph with animal and vegetal)
+Agriculture-related emissions can be classified into ten categories.  Among them, enteric fermentation is predominant. When the ruminants are digesting, fermentation takes place. It emits methane which is a strong greenhouse gas. Three other categories have also an important role: synthetic fertilizers, rice cultivation and manure left on pasture.
+
+<iframe src="{{ site.baseurl }}/images/graphs/detailed_emissions_world.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+To have a simpler interpretation those categories can be aggregated into emissions linked to animal products and the ones linked with vegetal products.
+
+<iframe src="{{ site.baseurl }}/images/graphs/veg_anim_emissions_world.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+The animal products generate about 3 million of gigagrams of CO2 equivalent. This is nearly twice more than the vegetal products. This result is as expected when we know the main source of emissions comes from the digestion of ruminants. Thus the ecological movements for vegetarianism does come from somewhere.
 
 ### Who are the main countries responsible for it ?
 
