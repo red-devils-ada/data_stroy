@@ -5,38 +5,32 @@ image: /images/cow.jpg
 layout: story
 ---
 
-# Abstract
+## Introduction
 
 Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. While the earth gets more crowded, we have to ask the question :
 How will we feed all those people sustainably? 
 
-# Introduction : Are agriculture's emissions significant ?
+## A global view
+### Are agriculture's emissions significant ?
   
   
 <iframe src="{{ site.baseurl }}/images/graphs/emissions_sector.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
 (show the emissions per sector -> agriculture = 10% + the transport due to trade of agri products)
-  
-# Who are the main countries responsible for it ?
 
-(map of the emissions per country)
-
-# What are those emissions due to ?
-
-(stacked graph with the different part of emissions)
-
-# Allocate agricultural emissions to animal or vegetal products
+### What are those emissions due to ?
 
 * (stacked graph with animal and vegetal)
-* (map for vegetal/animal products emissions)
-* (ranking of countries according to their emissions for animal/vegetal/sum products)
 
-# How do those emissions relate to the production ?
+### Who are the main countries responsible for it ?
 
-* (ranking of countries due to their production of vegetal/animal/sum products)
-* (same but per capita)
-* (ranking of countries according to their emissions per unit of production?)
+* (map of the emissions per country)
 
-# This is nice ! But we live in a modern world with trades all around the world...
+### Who are the food producers ?
+
+* (map of countries about their production per capita)
+
+## A deeper study on Belgium
 
 (talk about the ECF (Extended Carbon Footprint = domestic + import + international transport))
 
@@ -46,8 +40,7 @@ How will we feed all those people sustainably?
   * the international transport necessary to bring this food from where it was produced to the shops where it can be purchased.
  So we need to take into account the trades and the means of transportation of food. To get more clear, the study case will first be done on only one country : Belgium.
  
-# Zoom on Belgium
-## How much traded food for Belgium?
+### How much traded food for Belgium?
 
 (graph of evolution of total trade for animal and vegetal products in Belgium)
 (map from who and to who we trade products)
@@ -55,26 +48,27 @@ How will we feed all those people sustainably?
 <iframe src="{{ site.baseurl }}/images/maps/trade_of_vegetal_product_for_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 
-## Impact of the trade on emissions
+#### Impact of the trade on emissions
 
-(graph with vegetal and animal products emissions with and without the trade)
+(graph with food emissions with and without the trade with animal and vegetal products separated)
 
-## Impact of international transport
+#### A comparison with Switzerland
 
-* (graph with proportion of agricultural products brought by each transpot mode)
-* (graph? Talk about emissions intesinties of different mode of transport)
-* (graph/map of tkm of trade goods for each country? To relate to the tons of traded products)
+### What about the impact of transporting all that food ?
 
-## ECF of Belgium's food
+* (piechart with proportion of agricultural products brought by each transpot mode)
+* (bar chart about emissions intesinties of different mode of transport)
+
+### The Extended Carbon Footprint of Belgium's food
 
 (final results on Belgium)
 
-# What about Switzerland?
 
-(comparison Switzerland - Belgium)
+## A comparative study with the other EU countries
 
-# And if we extend that to whole EU countries?
-
+(trade comparison)
+(transport comparison)
+(maps of EU countries emissions with and without trade and transport)
 
 
 ![Evolution of emission in the world by sector](/images/graphs/evolution_emissions_world.eps)
