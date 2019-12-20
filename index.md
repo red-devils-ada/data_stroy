@@ -7,8 +7,9 @@ layout: story
 
 ## Introduction
 
-Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. While the earth gets more crowded, we have to ask the question :
-How will we feed all those people sustainably? 
+In October 2018, the Intergovernmental Panel on Climate Change (IPCC) released a special report about the impacts of global warming of 1.5°C above pre-industrial levels [1]. It makes clear that this should be avoided. The warming is mainly due to greenhouse gas emissions. In this context, it is of most interest to evaluate our food system with a new view. How is it participating in those emissions? What is the real carbon footprint of what we eat?
+
+This data story will first have a look at the direct emissions linked to agriculture. All along, it will differentiate emissions due to vegetal or animal products. Then a deeper study on Belgium's case will be pursued. It will look at the trade of food and how it impacts the emissions of the country. The emissions linked with the transportation of this traded food are going to be added. This will allow at the end to compute the Extended Carbon Footprint of Belgium's food which includes the direct emissions, the ones of trade and the ones of transportation.  This indicator gives a better view, in a globalized world, of the real emissions our food is responsible for. Finally, the same methodology will be applied to each country in the EU.
 
 ## A global view
 ### Are agriculture's emissions significant ?
