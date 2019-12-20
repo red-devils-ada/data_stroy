@@ -87,7 +87,7 @@ First, let us have a look at what countries Belgium trades with, and the impact 
 <iframe src="{{ site.baseurl }}/images/maps/traded_product_with_belgium_(tons)
 .html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-Here, positive values mean import, while negative means that Belgium exports to the country. 
+Here, positive values mean import, while negative means that Belgium exports to the country. The countries from which Belgium imports and to which it exports change a lot from year to year. However, there isa general tendancy to have more imports than exports. If we look at the year 2017, the main imports were coming from Colombia, Ukraine, France, Canada and Brazil. The main destination for export producte were, in 2017, Germany, Italy, United Kingdom, Oman and China.
 
 <iframe src="{{ site.baseurl }}/images/graphs/correction_emission_belgium.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
