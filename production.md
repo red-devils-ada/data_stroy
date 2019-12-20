@@ -24,7 +24,7 @@ Of course, the production amount of agricultural products increases. With a glob
 
 The production categories can be split in two groups: plant-based agricultural products, such as vegetables, cereals, etc. and animal-based agricultural products, such as meat, milk, etc. In the figure below you can find the weight of the plant-based agricultural produced goods per capita. 
 
-<iframe src="{{ site.baseurl }}/images/graphs/plant-based_agricultural_production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/maps/plant-based_agricultural_production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 
 [1] https://www.nature.com/articles/d41586-019-02409-7
