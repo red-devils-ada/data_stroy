@@ -33,11 +33,11 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 
 ### Who are the main countries responsible for it ?
 
-* (map of the emissions per country)
+<iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 ### Who are the food producers ?
 
-* (map of countries about their production per capita)
+<iframe src="{{ site.baseurl }}/images/maps/production.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 ## A deeper study on Belgium
 
@@ -66,7 +66,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 ### What about the impact of transporting all that food ?
 
 * (piechart with proportion of agricultural products brought by each transpot mode)
-* (bar chart about emissions intesinties of different mode of transport)
+* <iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
 ### The Extended Carbon Footprint of Belgium's food
 
@@ -76,7 +76,7 @@ The animal products generate about 3 million of gigagrams of CO2 equivalent. Thi
 ## A comparative study with the other EU countries
 
 (trade comparison)
-(transport comparison)
+<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 (maps of EU countries emissions with and without trade and transport)
 
 
