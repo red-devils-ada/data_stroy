@@ -39,10 +39,11 @@ Animal products generate about 3 million of gigagrams of CO2 equivalent. This is
 
 <iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
-
 <div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. This increase was due in part to high cashmere prices. Although livestock producers increased livestock numbers in response to market factors, the widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd.11 Accordingly, GHG emissions from the agriculture sector dropped during this period.12 From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However,
 in 2010, livestock production declined again due to extreme winter events.[2]. </div>
+
+In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
+
 Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand (all in the top 10 meat consuming countries of the world.[https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html]
 
 
