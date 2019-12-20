@@ -75,6 +75,12 @@ The four most common ways of transporting food are by plane (air), truck (road),
 
 Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emission of road and almost 50 times that of road and rail[TODO REFERENCE!!!].
 
+The total emission per km\*ton is calculated by taking the distance between the two countries (from the capitals), and multiplying it by the amount of goods that are imported, according to the mode of transportation (obtained by the EuroStat database).  
+
+<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+
+Here we can see the proportion of transportation means used per country (use this to interprete the impact of transportation emission per country).  
+
 
 ### The Extended Carbon Footprint of Belgium's food
 
@@ -82,7 +88,6 @@ Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emissi
 ## A comparative study with the other EU countries
 
 (trade comparison)
-<iframe src="{{ site.baseurl }}/images/graphs/transport_proportion.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 (transport comparison)
 (maps of EU countries emissions with and without trade and transport)
 
