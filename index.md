@@ -1,4 +1,3 @@
-
 ---
 title: The REAL carbon footprint of your food!
 description: A data story through the food related emissions 
