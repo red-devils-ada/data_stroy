@@ -35,11 +35,11 @@ A hot topic in global warming discussions is the impact of meat production. Many
 
 Animal products generate about 3 million of gigagrams of CO2 equivalent. This is nearly double that of vegetal products. Knowing that the main source of emissions comes from the digestion of ruminants, this is an expected result. The ecological movements for vegetarianism does come from somewhere!
 
-### Who are the main countries responsible for it ?
+### Who are the main countries responsible for those emissions ?
 
 <iframe src="{{ site.baseurl }}/images/maps/emissions_due_to_agriculture.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-<div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. Ahe widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd. Accordingly, GHG emissions from the agriculture sector dropped during this period. From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However, in 2010, livestock production declined again due to extreme winter events <a href="https://www.climatelinks.org/sites/default/files/asset/document/Mongolia%20Fact%20Sheet%20-%20rev%2010%2008%2016_Final.pdf">[2]</a>. </div>
+<div class="boxed">Some fun trends about Mongolia to verify for the reader: In the decade from 1990 to 1999, livestock numbers increased, largely due to a rapid rise in the goat population from approximately 5 million head in 1990 to 11 million head in 1999. A widespread and multi-year drought of 2000-2002 caused high livestock mortality in the national herd. Accordingly, GHG emissions from the agriculture sector dropped during this period. From 2004 to 2009, livestock numbers rose again with government support in veterinary and feed services. However, in 2010, livestock production declined again due to extreme winter events <a href="https://www.climatelinks.org/sites/default/files/asset/document/Mongolia%20Fact%20Sheet%20-%20rev%2010%2008%2016_Final.pdf">[2]</a>. </div>
 
 In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
 
