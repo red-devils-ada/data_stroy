@@ -69,9 +69,9 @@ More than just the CO2 of imported goods, transport also influences the emission
 
 The four most common ways of transporting food are by plane (air), truck (road), train (rail) or boat (sea). Below, the respective emissions per km\*ton of imported goods are given.
 
-* <iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/images/graphs/transport_mode.html" frameborder="0" allowfullscreen="false" style='width:100%; height:600px' scrolling="no"></iframe>
 
-Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emission of road and almost 50 times that of road and rail<a href="https://www.sciencedirect.com/science/article/pii/S0959652615000438">[3]</a>.
+Air transport emits 690 grams of CO2eq per km\*ton, more than 9 times the emission of road and almost 50 times that of sea and rail<a href="https://www.sciencedirect.com/science/article/pii/S0959652615000438">[3]</a>.
 
 The total emission per km\*ton is calculated by taking the distance between the two countries (from the capitals) and multiplying it by the number of goods that are imported, according to the mode of transportation (obtained by the EuroStat database).  
 
