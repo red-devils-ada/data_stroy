@@ -43,7 +43,7 @@ Animal products generate about 3 million of gigagrams of CO2 equivalent. This is
 
 In most countries, the emission per capita has been decreasing, a welcome trend. China, which is mostly seen as a heavy polluter, has in fact very low emission per person (mostly due to their enormous population). The recent heaviest polluter is suprisingly Mongolia. Herding is a business and a way of life in Mongolia. A large segment of the Mongolian population (small-scale and large-scale herders) remains dependent on livestock production as their primary means of livelihood. 
 
-Next to Mongolia, the biggest consumers are Australia, Uruguary and New Zealand (all in the top 10 meat consuming countries of the world.[https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html]
+Next to Mongolia, the biggest emitters are Australia, Uruguay and New Zealand (all in the top 10 meat consuming countries of the world).[https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html]
 
 
 ### Who are the food producers ?
